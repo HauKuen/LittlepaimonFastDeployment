@@ -48,4 +48,3 @@ echo "Bot管理员QQ号已设置为$new_value"
 echo "已部署成功,输入cd LittlePaimon进入目录,运行poetry run python bot.py启动Bot"
 echo "访问http://127.0.0.1:13579/go-cqhttp来添加Bot账号，添加完成后需重启Bot"
 echo "访问http://127.0.0.1:13579/LittlePaimon/login来管理Bot
-
