@@ -5,7 +5,7 @@
 ## 丨使用教程
 1.下载脚本
 ```
-git clone https://github.com/Hiroshi12138/LittlepaimonFastDeployment.git
+git clone https://github.com/HauKuen/LittlepaimonFastDeployment.git
 ```
 2.将安装脚本移动到合适位置
 ```
