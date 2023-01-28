@@ -1,5 +1,3 @@
-name: 需求建议
-description: 新功能、建议等
 labels: ['enhancement']
 body:
   - type: checkboxes
