@@ -1,6 +1,8 @@
 ## 丨简介
-[LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon.git) 的部署脚本，帮助小白搭建自己的小派蒙。<br>
-目前只写了``ubuntu``版本，其他发行版日后可能会更新(~~看有没有人要~~
+**现LittlePaimon可通过cli来搭建，本项目失去意义，故无限期停止更新。**
+
+~~[LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon.git) 的部署脚本，帮助小白搭建自己的小派蒙。<br>
+目前只写了``ubuntu``版本，其他发行版日后可能会更新(看有没有人要~~
 
 ## 丨使用教程
 1.下载脚本
